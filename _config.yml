@@ -1,1 +1,14 @@
+title: Path2China.com
+description: A website for sharing interesting things in China
+
+baseurl: ""
+url: "https://path2china.com"
+
 theme: jekyll-theme-minimal
+
+permalink: /:title.html
+
+logo: /logo.png
+
+
+google_analytics: UA-136933861-1
